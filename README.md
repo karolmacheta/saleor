@@ -1,5 +1,9 @@
 Tests for a QA Task from Saleor
-(Instructions in https://github.com/karolmacheta/10clouds/blob/master/zadanie.pdf)
+Instructions:
+- login to app
+- go to user settings
+- change the password
+- intercept the response for positive and negative password change
 
 ## Cypress Documentation:
 
