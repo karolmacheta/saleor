@@ -1,0 +1,22 @@
+{
+    "data":{
+       "passwordChange":{
+          "errors":[
+             {
+                "code":"INVALID_CREDENTIALS",
+                "field":"oldPassword",
+                "addressType":null,
+                "message":"Old password isn't valid.",
+                "__typename":"AccountError"
+             }
+          ],
+          "__typename":"PasswordChange"
+       }
+    },
+    "extensions":{
+       "cost":{
+          "requestedQueryCost":0,
+          "maximumAvailable":50000
+       }
+    }
+ }
