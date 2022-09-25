@@ -1,0 +1,16 @@
+{
+   "data":{
+      "passwordChange":{
+         "errors":[
+            
+         ],
+         "__typename":"PasswordChange"
+      }
+   },
+   "extensions":{
+      "cost":{
+         "requestedQueryCost":0,
+         "maximumAvailable":50000
+      }
+   }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "saleor",
+  "version": "1.0.0",
+  "description": "saleor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karolmacheta/saleor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karolmacheta/saleor/issues"
+  },
+  "homepage": "https://github.com/karolmacheta/saleor#readme",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  }
+}
