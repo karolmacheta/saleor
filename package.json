@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/karolmacheta/saleor#readme",
   "devDependencies": {
-    "cypress": "^10.6.0"
+    "cypress": "^10.10.0"
   }
 }
